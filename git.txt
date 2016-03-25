@@ -1,0 +1,13 @@
+Adding a remote
+
+
+To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
+
+The git remote add command takes two arguments:
+
+A remote name, for example, Turing
+A remote URL, for example, https://git.fslab.de/SE-II-2016/turing.git
+git init 
+git remote add Turing https://git.fslab.de/SE-II-2016/turing.git (set a new Remote)
+
+git remote -v (verif a new Repository)
